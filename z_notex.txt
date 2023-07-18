@@ -1,0 +1,4 @@
+docker build -t gianmichelesiano/testcicd .
+docker build -t bandigare/testcicd .
+
+la prima parte del tag deve essere la stessa del ripository bandigare
